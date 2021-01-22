@@ -1,0 +1,8 @@
+# folders
+.ipynb_checkpoints/
+.vscode/
+env/
+
+# files
+*.col.*
+*.res
