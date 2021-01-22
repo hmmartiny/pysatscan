@@ -2,7 +2,7 @@
 A quick wrapper for running SaTScan (https://www.satscan.org/) in a Python script or Notebook.
 
 ## How to run:
-I did try to replicate the NYC fever data example that is also shown in the `rsatscan` package in R (https://www.satscan.org/rsatscan/rsatscan.html).
+I did try to replicate the [NYC fever data example](https://www.satscan.org/rsatscan/rsatscan.html) that is also shown in the [`rsatscan`](https://cran.r-project.org/web/packages/rsatscan/index.html) package in R.
 
 ### Interactive session
 The Jupyter Notebook named [Tutorial](Tutorial.ipynb) show how to use the PySaTScan in an interactive Python session.
